@@ -33359,7 +33359,7 @@ U.xq.prototype={
 $1:function(a){var u=$.MG().style
 u.cursor="default"}}
 D.d2.prototype={
-N:function(a){var u=null,t="assets/images/"+this.c+".jpg"
+N:function(a){var u=null,t="assets/images/"+this.c+".png"
 return new T.fs(this.d,this.e,new T.jB(C.mP,new U.mV(M.Tj(u,u,new L.tv(t,u,u)),u),u),u)}}
 K.mS.prototype={
 aP:function(){return new K.Hr(C.t)}}
