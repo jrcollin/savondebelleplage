@@ -34986,7 +34986,7 @@ u=u[3]
 return Math.sqrt(t*t+s*s+r*r+u*u)}}
 T.vA.prototype={
 L:function(a){var u=null,t="OpenSansRegular",s=A.eJ(u,u,u,u,u,u,u,u,"SegoePrintRegular",u,u,13,u,C.b3,u,u,!0,u,u,u,u,u,u),r=A.eJ(u,u,u,u,u,u,u,u,t,u,u,13,u,C.b3,u,u,!0,u,u,u,u,u,u),q=A.eJ(u,u,u,u,u,u,u,u,t,u,u,12,u,u,u,u,!0,u,u,u,u,u,u),p=A.eJ(u,u,C.eH,u,u,u,u,u,t,u,u,12,u,u,u,u,!0,u,u,u,u,u,u),o=new Y.e8(C.ox,1,C.E),n=S.mk(new F.br(o,o,o,o),u,u,u,u,u,C.S)
-return new T.fE(436,90,M.Mq(u,T.Op(H.b([L.pl("SAVON de Belle Plage",s),L.pl("Ingr\xe9dients biologiques et v\xe9ganes",r),L.pl("M\xe9thode artisanale, huiles essentielles de patchouli, de rose et de lavande",q),L.pl("Pour plus d'information, veuillez nous \xe9crire \xe0:",q),D.Mz(u,U.TM(L.pl("info@savondebelleplage.com",p)),C.a7,!1,u,u,u,u,u,u,u,u,u,u,new T.vB(),u,u,u,u)],[N.bJ]),C.bw),u,u,n,u,u,u),u)}}
+return new T.fE(436,100,M.Mq(u,T.Op(H.b([L.pl("SAVON de Belle Plage",s),L.pl("Ingr\xe9dients biologiques et v\xe9ganes",r),L.pl("M\xe9thode artisanale, huiles essentielles de patchouli, de rose et de lavande",q),L.pl("Pour plus d'information, veuillez nous \xe9crire \xe0:",q),D.Mz(u,U.TM(L.pl("info@savondebelleplage.com",p)),C.a7,!1,u,u,u,u,u,u,u,u,u,u,new T.vB(),u,u,u,u)],[N.bJ]),C.bw),u,u,n,u,u,u),u)}}
 T.vB.prototype={
 $0:function(){C.aq.Jj(window,"mailto:info@savondebelleplage.com","name")},
 $S:1}
