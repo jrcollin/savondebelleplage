@@ -2,11 +2,12 @@ file:///C:/flutter/bin/cache/dart-sdk/lib/_internal/dart2js_platform.dill
 file:///E:/dev/Project/web_savon/.dart_tool/flutter_build/b4809db5b4da7cf69fdc67ebf77150ec/main.dart
 file:///E:/dev/Project/web_savon/.packages
 file:///E:/dev/Project/web_savon/lib/main.dart
-file:///E:/dev/Project/web_savon/lib/ui/content_size.dart
-file:///E:/dev/Project/web_savon/lib/ui/pages/home_pages.dart
-file:///E:/dev/Project/web_savon/lib/ui/widgets/content.dart
-file:///E:/dev/Project/web_savon/lib/ui/widgets/hand_cursor.dart
-file:///E:/dev/Project/web_savon/lib/ui/widgets/photo.dart
+file:///E:/dev/Project/web_savon/lib/ui/pages/home/content_size.dart
+file:///E:/dev/Project/web_savon/lib/ui/pages/home/home_page.dart
+file:///E:/dev/Project/web_savon/lib/ui/pages/home/widgets/body.dart
+file:///E:/dev/Project/web_savon/lib/ui/pages/home/widgets/content.dart
+file:///E:/dev/Project/web_savon/lib/ui/pages/home/widgets/hand_cursor.dart
+file:///E:/dev/Project/web_savon/lib/ui/pages/home/widgets/photo.dart
 file:///c:/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/collection.dart
 file:///c:/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/algorithms.dart
 file:///c:/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/canonicalized_map.dart
